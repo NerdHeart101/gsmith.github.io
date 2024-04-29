@@ -25,7 +25,7 @@ organizations:
     url: https://www.ttu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My passion is improving and innovating education through the use of project-based and game-based learning technologies, programs, and activities. 
 
 # Interests to show in About widget
 interests:
@@ -64,5 +64,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I work as the robotics coordinator for Texas Tech University. I also serve as the Program Delivery Coordinator for FIRST Tech Challenge in the West & Panhandle area of Texas and the Program Delivery Coordinator for FIRST LEGO League in the Panhandle area of Texas. I am a big advocate of robotics and STEM education, and I am always looking how to better provide and evolve robotics and coding programs for schools and organizations in West Texas. 
+
+I am very much interested in the ideas of project-based and game-based learning and I am always looking to see how I can use my skills in robotics and computer science to make those GBL and PBL experiences better for educators and students of all grade levels. 
 {style="text-align: justify;"}
